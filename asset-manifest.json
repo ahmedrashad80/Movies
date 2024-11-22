@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieaproject/static/css/main.17bc7453.css",
+    "main.js": "/movieaproject/static/js/main.4669f76d.js",
+    "static/media/logo.png": "/movieaproject/static/media/logo.82dc8996d92e6ce3e7d5.png",
+    "index.html": "/movieaproject/index.html",
+    "main.17bc7453.css.map": "/movieaproject/static/css/main.17bc7453.css.map",
+    "main.4669f76d.js.map": "/movieaproject/static/js/main.4669f76d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17bc7453.css",
+    "static/js/main.4669f76d.js"
+  ]
+}
