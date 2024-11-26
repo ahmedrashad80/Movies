@@ -1,6 +1,6 @@
 {
   "name": "movies-site",
-  "homepage": "https://ahmedrashad80.github.io/Movies",
+  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "react-dom": "^18.3.1",
     "react-paginate": "^8.2.0",
     "react-router-dom": "^6.26.2",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
